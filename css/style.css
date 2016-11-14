@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+
+/*.u-const {
+   background-image: url("../img/construction.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    overflow: hidden;
+}*/
+
+img {
+    width: 100%;
+    height: 100vh;
+}
